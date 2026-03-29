@@ -151,6 +151,6 @@ charts/
 
 ## Author
 
-**ANMOL KUMAR | 25BCE11219**
+**AYUSH VARSHNEY | 25BCE10938**
 
 The problem was chosen because rank prediction is something literally every JEE student needs after their exam, and existing tools are either overly simplistic or behind paywalls.
